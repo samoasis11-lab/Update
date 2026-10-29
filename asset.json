@@ -1,4 +1,4 @@
 {
-  "payload": "{\"app\":\"asset\",\"date\":\"2026-10-29\",\"notes\":[\"﻿คำขอเบิกวัสดุ (มือถือ): ย้อนคำขอที่อนุมัติ/ไม่อนุมัติแล้วกลับเป็นรออนุมัติได้\",\"ลบคำขอเบิกที่ไม่ต้องการออกจากรายการได้\",\"แสดงหมายเหตุเมื่อใบเบิกที่ออกจากคำขอถูกยกเลิกแล้ว\"],\"sha256\":\"dcee21c903e2a34ba59575c44e0d7e102ce12b907494c6a317db92ec3175612a\",\"size\":9152000,\"url\":\"https://github.com/samoasis11-lab/Update/releases/download/asset-v1.7.2/AssetRegister.exe\",\"version\":\"1.7.2\"}",
-  "sig": "bGqLmsv3WVtpWRgjqm7m0Fn3MVY2VRkHXPhBxbSNtJ8qS8696zV0p1Jun6DycZfp/zXPrFgM3aUSli1n+wVkAg=="
+  "payload": "{\"app\":\"asset\",\"date\":\"2026-10-29\",\"notes\":[\"﻿ใบเบิกวัสดุ: จัดช่องผู้เบิก/ผู้รับวัสดุ (ชื่อ ตำแหน่ง เพื่อใช้ในงาน) ให้เห็นชัดคู่กับหน่วยงานที่เบิก\",\"เลือกชื่อผู้เบิกที่เคยเบิก ระบบเติมตำแหน่งและหน่วยงานให้อัตโนมัติ\",\"บัญชีวัสดุ ใบจ่ายวัสดุ และความเคลื่อนไหว แสดง \\\"จ่ายให้ ชื่อผู้เบิก (หน่วยงาน)\\\"\"],\"sha256\":\"70972af5c94b868b54ac394edcf499e8d59c194a87ca5b9103afa2b69c948e54\",\"size\":9154048,\"url\":\"https://github.com/samoasis11-lab/Update/releases/download/asset-v1.7.4/AssetRegister.exe\",\"version\":\"1.7.4\"}",
+  "sig": "FQAPsTgji7UCDhKCwKa0otS+jiIFEq40HGFmfcf6/ChqKah+yzzuGakFmJJINjCr2Vvt7E64i/GrLM72yVtgDg=="
 }
