@@ -1,0 +1,4 @@
+{
+  "payload": "{\"app\":\"asset\",\"date\":\"2026-10-29\",\"notes\":[\"ใบเบิกพัสดุแบบที่ 2 ช่องลงชื่อเป็นแบบเดียวกับแบบฟอร์มต้นฉบับ และมีบรรทัดตำแหน่งทุกช่อง\",\"เพิ่มรายชื่อเจ้าหน้าที่พัสดุ และหัวหน้าเจ้าหน้าที่/ผู้สั่งจ่ายพัสดุ ได้หลายคน (ตั้งค่า → ผู้ลงนามในเอกสาร)\"],\"sha256\":\"bd67689741769dbf67ef609c3e04fce026fc2a199e4caea16d0cb4cf5a098571\",\"size\":9144832,\"url\":\"https://github.com/samoasis11-lab/Update/releases/download/asset-v1.7.1/AssetRegister.exe\",\"version\":\"1.7.1\"}",
+  "sig": "+0HcgmQXd+cCmy2lYIkexxrITyP4yB95LgTZFvOt+Ciw6NffK+NHvhqRvtnMQzQ4MR6cQnUY/FhUrdyY1up/DA=="
+}
