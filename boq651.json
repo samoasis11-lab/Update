@@ -1,0 +1,4 @@
+{
+  "payload": "{\"app\":\"boq651\",\"date\":\"2026-11-06\",\"notes\":[\"ปรับปรุงและแก้ไขข้อผิดพลาด\"],\"sha256\":\"6db971dd5ebc9d64776c1be66cf657459dedf135c90c5f1b55e185b4304d5493\",\"size\":14809600,\"url\":\"https://github.com/samoasis11-lab/Update/releases/download/boq651-v1.2.1/BOQ651.exe\",\"version\":\"1.2.1\"}",
+  "sig": "P06LAhCsUs+hE1ijjxd0fmz0nguzchFo502SHusW9OFN+a0u8tKlwRgUSlcMNgdf42iySlXJFrn7/7e50pGPAQ=="
+}
