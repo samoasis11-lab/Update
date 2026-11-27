@@ -1,0 +1,482 @@
+{
+ "updated": "2026-11-27",
+ "docs": [
+  {
+   "id": "L1-01",
+   "cat": "local",
+   "sub": "manual",
+   "title": "คู่มือการจัดทำรายงานสำรวจสินทรัพย์ขององค์กรปกครองส่วนท้องถิ่น (การบัญชีภาครัฐ)",
+   "ref": "กรมบัญชีกลาง",
+   "date": "",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L1-01.pdf"
+  },
+  {
+   "id": "L1-02",
+   "cat": "local",
+   "sub": "manual",
+   "title": "แนวทางการจัดทำรายงานการเงินตามมาตรฐานการบัญชีภาครัฐและนโยบายการบัญชีภาครัฐ สำหรับ อปท.",
+   "ref": "กค 0410.3/ว 731",
+   "date": "13 ส.ค. 2564",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L1-02.pdf"
+  },
+  {
+   "id": "L1-03",
+   "cat": "local",
+   "sub": "manual",
+   "title": "การควบคุมพัสดุของหน่วยการบริหารราชการส่วนท้องถิ่น",
+   "ref": "มท 0407/ว 791",
+   "date": "6 มิ.ย. 2529",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L1-03.pdf"
+  },
+  {
+   "id": "L1-04",
+   "cat": "local",
+   "sub": "manual",
+   "title": "รูปแบบและการจำแนกประเภทรายรับ–รายจ่าย งบประมาณรายจ่ายประจำปีของ อปท.",
+   "ref": "มท 0808.2/ว 1095",
+   "date": "28 พ.ค. 2564",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L1-04.pdf"
+  },
+  {
+   "id": "L1-05",
+   "cat": "local",
+   "sub": "manual",
+   "title": "การจัดทำทะเบียนทรัพย์สินขององค์กรปกครองส่วนท้องถิ่น",
+   "ref": "มท 0808.2/ว 5909",
+   "date": "19 ต.ค. 2568",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L1-05.pdf"
+  },
+  {
+   "id": "L1-06",
+   "cat": "local",
+   "sub": "manual",
+   "title": "ซักซ้อมแนวทางปฏิบัติในการบันทึกบัญชีของ อปท. (e-LAAS)",
+   "ref": "มท 0808.4/ว 2604",
+   "date": "24 ส.ค. 2563",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L1-06.pdf"
+  },
+  {
+   "id": "L2-01",
+   "cat": "local",
+   "sub": "auction",
+   "title": "แนวทางปฏิบัติการขายทอดตลาดและการดำเนินการทางทะเบียนรถที่มีที่มาจากการขายทอดตลาดของส่วนราชการหรือหน่วยงานของรัฐ",
+   "ref": "คค 0205/ว 4175",
+   "date": "4 ต.ค. 2561",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L2-01.pdf"
+  },
+  {
+   "id": "L2-02",
+   "cat": "local",
+   "sub": "auction",
+   "title": "ข้อหารือการจำหน่ายพัสดุตามระเบียบฯ ข้อ 215 วรรคหนึ่ง (1) (กรุงเทพมหานคร)",
+   "ref": "กค (กวจ) 0405.3/14737",
+   "date": "25 เม.ย. 2565",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L2-02.pdf"
+  },
+  {
+   "id": "L2-03",
+   "cat": "local",
+   "sub": "auction",
+   "title": "แนวทางปฏิบัติการดำเนินการจำหน่ายพัสดุโดยวิธีการขายทอดตลาด ตามระเบียบฯ ข้อ 215 วรรคหนึ่ง (1)",
+   "ref": "กค (กวจ) 0405.4/ว 197",
+   "date": "17 มี.ค. 2569",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L2-03.pdf"
+  },
+  {
+   "id": "L3-01",
+   "cat": "local",
+   "sub": "transfer",
+   "title": "ขอความร่วมมือร่วมบริจาค (โอน) ครุภัณฑ์ให้วัด จ.บุรีรัมย์ ตามระเบียบฯ ข้อ 215 (3)",
+   "ref": "มท 0803.3/ว 3308",
+   "date": "2567",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L3-01.pdf"
+  },
+  {
+   "id": "L3-02",
+   "cat": "local",
+   "sub": "transfer",
+   "title": "แจ้งผลการวินิจฉัยข้อหารือของกระทรวงมหาดไทย 3 ประเด็น (การรับมอบพัสดุที่มีผู้อุทิศให้ อปท. ฯลฯ)",
+   "ref": "มท 0808.2/ว 1628",
+   "date": "2561",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L3-02.pdf"
+  },
+  {
+   "id": "L4-01",
+   "cat": "local",
+   "sub": "loss",
+   "title": "แนวทางปฏิบัติในการดำเนินการกับทรัพย์สินที่สูญหายหรือเสียหายจากภัยธรรมชาติ",
+   "ref": "กค 0406.2/ว 9",
+   "date": "18 ม.ค. 2548",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L4-01.pdf"
+  },
+  {
+   "id": "L5-01",
+   "cat": "local",
+   "sub": "other",
+   "title": "ซักซ้อมแนวทางปฏิบัติในการบันทึกบัญชีของ อปท.",
+   "ref": "มท 0808.4/ว 1107",
+   "date": "31 พ.ค. 2564",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L5-01.pdf"
+  },
+  {
+   "id": "L5-02",
+   "cat": "local",
+   "sub": "other",
+   "title": "ประกาศ กสทช. เรื่อง การมี ใช้เครื่องวิทยุคมนาคม และตั้งสถานีวิทยุคมนาคม",
+   "ref": "ราชกิจจานุเบกษา เล่ม 128 ตอนพิเศษ 55 ง",
+   "date": "18 พ.ค. 2554",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L5-02.pdf"
+  },
+  {
+   "id": "L5-03",
+   "cat": "local",
+   "sub": "other",
+   "title": "การเบิกจ่ายเงินค่าซ่อมแซมทรัพย์สินของทางราชการ",
+   "ref": "กค 0526.7/ว 22",
+   "date": "31 มี.ค. 2542",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L5-03.pdf"
+  },
+  {
+   "id": "L5-04",
+   "cat": "local",
+   "sub": "other",
+   "title": "ข้อหารือการจัดซื้อจัดจ้างเกี่ยวกับการบำรุงรักษาพัสดุ (กรมศุลกากร)",
+   "ref": "กค (กวจ) 0405.4/21352",
+   "date": "21 พ.ค. 2564",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L5-04.pdf"
+  },
+  {
+   "id": "L5-05",
+   "cat": "local",
+   "sub": "other",
+   "title": "การขออนุมัติจำหน่ายโปรแกรมระบบต่าง ๆ ของกรมพัฒนาธุรกิจการค้า จำนวน 82 ระบบ",
+   "ref": "กค (กวจ) 0405.3/13325",
+   "date": "11 เม.ย. 2565",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L5-05.pdf"
+  },
+  {
+   "id": "L5-06",
+   "cat": "local",
+   "sub": "other",
+   "title": "แนวทางปฏิบัติในการคืนพัสดุที่ชำรุดหรือเสื่อมคุณภาพ",
+   "ref": "กค (กวจ) 0405.4/ว 520",
+   "date": "29 ต.ค. 2562",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L5-06.pdf"
+  },
+  {
+   "id": "L5-07",
+   "cat": "local",
+   "sub": "other",
+   "title": "แนวทางการปรับเปลี่ยนวัตถุประสงค์การใช้งานครุภัณฑ์",
+   "ref": "มท 0808.2/ว 1054",
+   "date": "10 มี.ค. 2568",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L5-07.pdf"
+  },
+  {
+   "id": "L5-08",
+   "cat": "local",
+   "sub": "other",
+   "title": "แนวทางปฏิบัติในการดำเนินการเกี่ยวกับทรัพย์สินสิ่งปลูกสร้างโครงการก่อสร้างต่าง ๆ",
+   "ref": "มท 0703.4/ว 263",
+   "date": "17 มิ.ย. 2562",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L5-08.pdf"
+  },
+  {
+   "id": "L5-09",
+   "cat": "local",
+   "sub": "other",
+   "title": "ข้อหารือการบริหารพัสดุตาม พ.ร.บ.การจัดซื้อจัดจ้างฯ พ.ศ. 2560 (มหาวิทยาลัยวลัยลักษณ์)",
+   "ref": "กค (กวจ) 0405.4/33972",
+   "date": "25 ก.ย. 2566",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L5-09.pdf"
+  },
+  {
+   "id": "L5-10",
+   "cat": "local",
+   "sub": "other",
+   "title": "แจ้งแนววินิจฉัยแนวทางปฏิบัติการรื้อถอนสิ่งก่อสร้าง (อบต.ทรายแดง จ.ระนอง)",
+   "ref": "มท 0808.2/ว 3555",
+   "date": "",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L5-10.pdf"
+  },
+  {
+   "id": "L5-11",
+   "cat": "local",
+   "sub": "other",
+   "title": "แบบ คท.33 แบบคำขอยกเลิกใบอนุญาตวิทยุคมนาคม",
+   "ref": "สำนักงาน กสทช.",
+   "date": "",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L5-11.pdf"
+  },
+  {
+   "id": "L5-12",
+   "cat": "local",
+   "sub": "other",
+   "title": "หารือแนวทางปฏิบัติตามระเบียบสำนักนายกรัฐมนตรีว่าด้วยหลักเกณฑ์การปฏิบัติเกี่ยวกับความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539",
+   "ref": "นร 0601/186",
+   "date": "15 มี.ค. 2541",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L5-12.pdf"
+  },
+  {
+   "id": "L5-13",
+   "cat": "local",
+   "sub": "other",
+   "title": "ข้อหารือการขายกระดาษที่มิได้ใช้ประโยชน์แล้วของหน่วยราชการ",
+   "ref": "กค 0405.2/16433",
+   "date": "20 มี.ค. 2562",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L5-13.pdf"
+  },
+  {
+   "id": "L5-14",
+   "cat": "local",
+   "sub": "other",
+   "title": "หารือแนวทางการควบคุมและการออกรหัสสินทรัพย์ในระบบ e-LAAS (จ.ขอนแก่น)",
+   "ref": "มท 0808.4",
+   "date": "ก.พ. 2565",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L5-14.pdf"
+  },
+  {
+   "id": "L5-15",
+   "cat": "local",
+   "sub": "other",
+   "title": "หารือการขนย้ายขยะออกจากพื้นที่บ่อขยะ อบต.หนองมะค่าโมง จ.สุพรรณบุรี",
+   "ref": "มท 0820.2/18056",
+   "date": "25 พ.ย. 2565",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L5-15.pdf"
+  },
+  {
+   "id": "L5-16",
+   "cat": "local",
+   "sub": "other",
+   "title": "การขออนุมัติยกเว้นการปฏิบัติตามระเบียบฯ ข้อ 215 วรรคหนึ่ง (3) (อบจ.สมุทรสงคราม)",
+   "ref": "กค (กวจ) 0405.4/8962",
+   "date": "7 มี.ค. 2565",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/L5-16.pdf"
+  },
+  {
+   "id": "G1-01",
+   "cat": "gov",
+   "sub": "manual",
+   "title": "คู่มือการบัญชีภาครัฐ เรื่อง ที่ดิน อาคาร และอุปกรณ์",
+   "ref": "กรมบัญชีกลาง",
+   "date": "",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G1-01.pdf"
+  },
+  {
+   "id": "G1-02",
+   "cat": "gov",
+   "sub": "manual",
+   "title": "คู่มือการกำหนดหมายเลขพัสดุ",
+   "ref": "สำนักงบประมาณ",
+   "date": "",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G1-02.pdf"
+  },
+  {
+   "id": "G1-03",
+   "cat": "gov",
+   "sub": "manual",
+   "title": "แนวทางการพิจารณาสิ่งของที่จัดเป็นวัสดุและครุภัณฑ์ตามหลักการจำแนกประเภทรายจ่ายตามงบประมาณ",
+   "ref": "นร 0704/ว 37",
+   "date": "6 ม.ค. 2559",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G1-03.pdf"
+  },
+  {
+   "id": "G1-04",
+   "cat": "gov",
+   "sub": "manual",
+   "title": "การตีราคาทรัพย์สิน",
+   "ref": "กค 0528.2/ว 91",
+   "date": "16 พ.ย. 2544",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G1-04.pdf"
+  },
+  {
+   "id": "G1-05",
+   "cat": "gov",
+   "sub": "manual",
+   "title": "ซักซ้อมความเข้าใจเกี่ยวกับข้อมูลทรัพย์สิน",
+   "ref": "กค 0410.3/ว 218",
+   "date": "25 ก.ค. 2546",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G1-05.pdf"
+  },
+  {
+   "id": "G1-06",
+   "cat": "gov",
+   "sub": "manual",
+   "title": "การตีราคาทรัพย์สิน",
+   "ref": "กค 0528.2/ว 33845",
+   "date": "16 พ.ย. 2544",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G1-06.pdf"
+  },
+  {
+   "id": "G2-01",
+   "cat": "gov",
+   "sub": "auction",
+   "title": "แนวทางปฏิบัติการขายทอดตลาดและการดำเนินการทางทะเบียนรถที่มีที่มาจากการขายทอดตลาดของส่วนราชการหรือหน่วยงานของรัฐ",
+   "ref": "คค 0205/ว 4175",
+   "date": "4 ต.ค. 2561",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G2-01.pdf"
+  },
+  {
+   "id": "G2-02",
+   "cat": "gov",
+   "sub": "auction",
+   "title": "ข้อหารือการจำหน่ายพัสดุตามระเบียบฯ ข้อ 215 วรรคหนึ่ง (1) (กรุงเทพมหานคร)",
+   "ref": "กค (กวจ) 0405.3/14737",
+   "date": "25 เม.ย. 2565",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G2-02.pdf"
+  },
+  {
+   "id": "G2-03",
+   "cat": "gov",
+   "sub": "auction",
+   "title": "แนวทางปฏิบัติการดำเนินการจำหน่ายพัสดุโดยวิธีการขายทอดตลาด ตามระเบียบฯ ข้อ 215 วรรคหนึ่ง (1)",
+   "ref": "กค (กวจ) 0405.4/ว 197",
+   "date": "17 มี.ค. 2569",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G2-03.pdf"
+  },
+  {
+   "id": "G3-01",
+   "cat": "gov",
+   "sub": "transfer",
+   "title": "ขอความร่วมมือร่วมบริจาค (โอน) ครุภัณฑ์ให้วัด จ.บุรีรัมย์ ตามระเบียบฯ ข้อ 215 (3)",
+   "ref": "มท 0803.3/ว 3308",
+   "date": "2567",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G3-01.pdf"
+  },
+  {
+   "id": "G3-02",
+   "cat": "gov",
+   "sub": "transfer",
+   "title": "คู่มือการบัญชีภาครัฐ เรื่อง การโอนสินทรัพย์ระหว่างกรม",
+   "ref": "กค 0410.4/ว 126",
+   "date": "17 ก.พ. 2568",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G3-02.pdf"
+  },
+  {
+   "id": "G4-01",
+   "cat": "gov",
+   "sub": "loss",
+   "title": "แนวทางปฏิบัติในการดำเนินการกับทรัพย์สินที่สูญหายหรือเสียหายจากภัยธรรมชาติ",
+   "ref": "กค 0406.2/ว 9",
+   "date": "18 ม.ค. 2548",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G4-01.pdf"
+  },
+  {
+   "id": "G5-01",
+   "cat": "gov",
+   "sub": "other",
+   "title": "การปฏิบัติงานและการบันทึกบัญชีเกี่ยวกับที่ดิน อาคาร และอุปกรณ์ (มหาวิทยาลัยเชียงใหม่)",
+   "ref": "กค 0410.3/ว 3767",
+   "date": "22 ม.ค. 2564",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G5-01.pdf"
+  },
+  {
+   "id": "G5-02",
+   "cat": "gov",
+   "sub": "other",
+   "title": "ประกาศ กสทช. เรื่อง การมี ใช้เครื่องวิทยุคมนาคม และตั้งสถานีวิทยุคมนาคม",
+   "ref": "ราชกิจจานุเบกษา เล่ม 128 ตอนพิเศษ 55 ง",
+   "date": "18 พ.ค. 2554",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G5-02.pdf"
+  },
+  {
+   "id": "G5-03",
+   "cat": "gov",
+   "sub": "other",
+   "title": "การเบิกจ่ายเงินค่าซ่อมแซมทรัพย์สินของทางราชการ",
+   "ref": "กค 0526.7/ว 22",
+   "date": "31 มี.ค. 2542",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G5-03.pdf"
+  },
+  {
+   "id": "G5-04",
+   "cat": "gov",
+   "sub": "other",
+   "title": "ข้อหารือการจัดซื้อจัดจ้างเกี่ยวกับการบำรุงรักษาพัสดุ (กรมศุลกากร)",
+   "ref": "กค (กวจ) 0405.4/21352",
+   "date": "21 พ.ค. 2564",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G5-04.pdf"
+  },
+  {
+   "id": "G5-05",
+   "cat": "gov",
+   "sub": "other",
+   "title": "การขออนุมัติจำหน่ายโปรแกรมระบบต่าง ๆ ของกรมพัฒนาธุรกิจการค้า จำนวน 82 ระบบ",
+   "ref": "กค (กวจ) 0405.3/13325",
+   "date": "11 เม.ย. 2565",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G5-05.pdf"
+  },
+  {
+   "id": "G5-06",
+   "cat": "gov",
+   "sub": "other",
+   "title": "แนวทางปฏิบัติในการคืนพัสดุที่ชำรุดหรือเสื่อมคุณภาพ",
+   "ref": "กค (กวจ) 0405.4/ว 520",
+   "date": "29 ต.ค. 2562",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G5-06.pdf"
+  },
+  {
+   "id": "G5-07",
+   "cat": "gov",
+   "sub": "other",
+   "title": "แนวทางปฏิบัติในการดำเนินการเกี่ยวกับทรัพย์สินสิ่งปลูกสร้างโครงการก่อสร้างต่าง ๆ",
+   "ref": "มท 0703.4/ว 263",
+   "date": "17 มิ.ย. 2562",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G5-07.pdf"
+  },
+  {
+   "id": "G5-08",
+   "cat": "gov",
+   "sub": "other",
+   "title": "ข้อหารือการบริหารพัสดุตาม พ.ร.บ.การจัดซื้อจัดจ้างฯ พ.ศ. 2560 (มหาวิทยาลัยวลัยลักษณ์)",
+   "ref": "กค (กวจ) 0405.4/33972",
+   "date": "25 ก.ย. 2566",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G5-08.pdf"
+  },
+  {
+   "id": "G5-09",
+   "cat": "gov",
+   "sub": "other",
+   "title": "แจ้งแนววินิจฉัยแนวทางปฏิบัติการรื้อถอนสิ่งก่อสร้าง (อบต.ทรายแดง จ.ระนอง)",
+   "ref": "มท 0808.2/ว 3555",
+   "date": "",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G5-09.pdf"
+  },
+  {
+   "id": "G5-10",
+   "cat": "gov",
+   "sub": "other",
+   "title": "แบบ คท.33 แบบคำขอยกเลิกใบอนุญาตวิทยุคมนาคม",
+   "ref": "สำนักงาน กสทช.",
+   "date": "",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G5-10.pdf"
+  },
+  {
+   "id": "G5-11",
+   "cat": "gov",
+   "sub": "other",
+   "title": "หารือแนวทางปฏิบัติตามระเบียบสำนักนายกรัฐมนตรีว่าด้วยหลักเกณฑ์การปฏิบัติเกี่ยวกับความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539",
+   "ref": "นร 0601/186",
+   "date": "15 มี.ค. 2541",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G5-11.pdf"
+  },
+  {
+   "id": "G5-12",
+   "cat": "gov",
+   "sub": "other",
+   "title": "ข้อหารือการขายกระดาษที่มิได้ใช้ประโยชน์แล้วของหน่วยราชการ",
+   "ref": "กค 0405.2/16433",
+   "date": "20 มี.ค. 2562",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G5-12.pdf"
+  },
+  {
+   "id": "G5-13",
+   "cat": "gov",
+   "sub": "other",
+   "title": "การขออนุมัติยกเว้นการปฏิบัติตามระเบียบฯ ข้อ 215 วรรคหนึ่ง (3) (อบจ.สมุทรสงคราม)",
+   "ref": "กค (กวจ) 0405.4/8962",
+   "date": "7 มี.ค. 2565",
+   "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-docs/G5-13.pdf"
+  }
+ ]
+}
