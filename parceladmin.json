@@ -1,9 +1,10 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-1.0.1/ParcelAdmin.exe",
-  "sha256": "bb8acb71ff15df4bfb788fdc0837b2ad6077a5fc8ad4e623201557c082d41b51",
-  "notes": "รหัสโปรโมชันของโปรแกรมการบริหารพัสดุแยกเฉพาะโปรแกรมนี้\nแก้ไขให้รองรับรหัสโปรโมชันชุดใหม่",
+  "version": "1.0.3",
+  "url": "https://github.com/samoasis11-lab/Update/releases/download/parceladmin-1.0.3/ParcelAdmin.exe",
+  "sha256": "b1555fdab79b4ae505bbf56316ee26bad05488c90aae3c9a2f04f64c3f926ada",
+  "notes": "เพิ่มเมนู 17 คลังหนังสือสั่งการ (ท้องถิ่น / ส่วนราชการอื่น)\nค้นหาหนังสือได้ โหลดหนังสือใหม่ และเปิดอ่านแบบออฟไลน์ได้",
   "news": [
+    {"date": "2026-11-27", "type": "news", "title": "เวอร์ชัน 1.0.3 — เพิ่มเมนู 17 คลังหนังสือสั่งการ ค้นหาและเปิดอ่านหนังสือหารือ/หนังสือสั่งการเกี่ยวกับการจำหน่ายพัสดุได้ในโปรแกรม"},
     {"date": "2026-11-25", "type": "news", "title": "เวอร์ชัน 1.0.1 — รองรับรหัสโปรโมชันของโปรแกรมการบริหารพัสดุ"},
     {"date": "2026-11-25", "type": "video", "title": "ติดตามข่าวสารและคลิปสอนการใช้งานที่เพจ พัสดุและทะเบียนสินทรัพย์", "url": "https://www.facebook.com/ParcelsAsset"}
   ]
